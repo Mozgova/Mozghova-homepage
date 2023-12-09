@@ -1,2 +1,2 @@
 # Mozghova-homepage
-My first personal website. Basically this is just a resume.
+My first personal website. Hocus-pocus!
